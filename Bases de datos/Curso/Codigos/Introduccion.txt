@@ -1,0 +1,5 @@
+1. Instalar Oracle Database Express Edition (XE)
+2. Descargar archivos
+3. Iniciar sesion
+4. Crear usuario
+5. Crear base de datos
