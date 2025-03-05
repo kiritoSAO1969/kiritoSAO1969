@@ -1,0 +1,2 @@
+Pelicula: Zaddkiel, Duracion: 6565, Genero: accion
+Pelicula: Pancho villa, Duracion: 98, Genero: Terror
